@@ -1,0 +1,9 @@
+export const IC_LOUPE=require('../icon/loupe.png');
+export const IC_BELL=require('../icon/notification.png')
+export const IC_VM=require('../icon/van-mieu-quoc-tu-giam-07jpg-1557300819753.jpg')
+export const IC_BACK=require('../icon/leftarrow.png')
+export const IC_LIKE=require('../icon/like.png')
+export const IC_MESS=require('../icon/message.png')
+export const IC_SHARE=require('../icon/share.png')
+export const IC_SIGNPORT=require('../icon/signposts.png')
+export const IC_USER=require('../icon/user.png')
